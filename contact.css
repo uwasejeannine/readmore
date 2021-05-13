@@ -1,0 +1,20 @@
+label,
+input,
+textarea {
+    display: block;
+}
+
+.cont a {
+    color: yellow;
+    width: 40px;
+    margin: 20px;
+}
+
+.cont {
+    background-color: rgb(66, 66, 212);
+}
+
+.conme {
+    font-size: 70px;
+    color: yellow;
+}
